@@ -14,7 +14,7 @@ function App() {
     alt = "logo" / >
     <
     p >
-    Halo, World!! <
+    Hallo, World!! <
     /p> <
     a className = "App-link"
     href = "https://reactjs.org"
