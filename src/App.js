@@ -14,7 +14,7 @@ function App() {
     alt = "logo" / >
     <
     p >
-    Melakukan Perubahan Pada script melalui github <
+    Melakukan Perubahan Pada script melalui github KE - 2 <
     /p> <
     a className = "App-link"
     href = "https://reactjs.org"
